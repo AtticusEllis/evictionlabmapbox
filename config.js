@@ -15,7 +15,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Setting the Stage',
-            image: './cover.jpg',
+            image: 'cover.jpg',
             description: 'Richmond, Virginia was incorporated in 1742 and has a long divisive history. In the summer of 2020, many took to the streets to protest the high-profile police killings of Black individuals across the country and in Richmond. There was not a single incident that protesters were responding to but, rather centuries of racial violence and dispossession <i>arising from the connected policies and practices of Black Codes, Redlining, Urban Renewal, foreclosure and eviction</i>. Eviction is widely recognized as a problem but often treated in the same individualized way as racialized violence, divorcing it from its systemic and historical context, and therefore limiting understanding and potential to address it.',
             location: {
                 center: [-81.664537, 37.986404],
@@ -53,7 +53,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: 'Richmond Post the Civil War',
-            image: './plate5.jpg',
+            image: 'plate5.jpg',
             description: "Virginia saw many of the battles fought during the Civil War. Reconstruction, a process started before the war officially ended, progressed quickly in the city of Richmond. Newly freed people began to establish churches, homes, and businesses within the city. But this Reconstruction period ended by 1875. In 1902, Virginia ratified a new constitution. This constitution took away many of the freedoms granted to Black individuals during the Reconstruction period, including the right to vote and the ability of Black men to participate in politics. The Commonwealth also passed 'one-drop' rules defining who was Black. Although racialized zoning (determining who could live where based on race) was outlawed by the Supreme Court in 1917 <a href='https://supreme.justia.com/cases/federal/us/245/60/' target='_blank' rel='noopener noreferrer'>(Buchanan vs. Warley)</a>, the City of Richmond passed a law that you could not live in a neighborhood with someone you could not marry. Interracial marriage was banned in Virginia until 1967 <a href='https://supreme.justia.com/cases/federal/us/388/1/' target='_blank' rel='noopener noreferrer'>(Loving vs. Virginia)</a>. This effective locked segregation in statute.",
             location: {
                 center: [-77.44004, 37.54446],
@@ -72,7 +72,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'What is Urban Renewal?',
-            image: './urbanrenewal.png',
+            image: 'urbanrenewal.png',
             description: 'Urban Renewal was a federal program created during the new deal that was initially focused on the replacement of poor quality housing with new housing. However, along with the development of public housing and highways, Urban Renewal areas were determined on racial lines. Cities had to determine that a neighborhood or building was blighted to be part of Urban Renewal. However, blight definitions were both explicitly and implicitly based on race. Black residents in a neighborhood were part of many definitions of blight, but disinvestment - which was driven by racialized decisions - was another critical part of blight. In Richmond, Urban Renewal and highway projects flattened the Randolph, Fulton, Shockoe Bottom, Jackson Ward and Navy Hill communities - all of which were thriving Black neighborhoods.',
             location: {
                 center: [ -77.39091, 37.51423],
@@ -132,7 +132,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: 'An oral history interview with Ida Ellett, December 13, 2011. Part of the Fulton Oral History Project; Interview by Dr. Caroline Morris, Transcription by Erin O’Donnovan',
-            image: './fulton.jpg',
+            image: 'fulton.jpg',
             description: 'In an interview conducted by Dr. Caroline Morris, Ida Ellett discussed growing up in the historic neighborhood of Fulton, Richmond. Coming from a large family, the Ellett’s originally lived in North Carolina on a sharecropper’s farm. When the family moved to Richmond, Ida’s mother worked in a tobacco factory. As a child, Ida lived and attended church in the Fulton area. She talks about growing up during the 30’s during the height of the Great Depression. <i>‘We didn’t know any different. We didn’t have anything and our friends didn’t have anything, there were a few of them and those who did have shared’</i>. She attended high school at Armstrong, the only Black high school in Richmond. During the war years of the 40’s she lived in D.C. working for the Census Bureau. Ida stayed in D.C. for 4 to five years before returning to Richmond.  She married Robert Ellett after moving back to Richmond and was married for 53 years.  For a short period, the married couple lived in Varina before moving back to Fulton, Richmond. Ida recalls paying the poll tax in order to vote in Richmond. Ida was also a campaigner for Oliver Hill and worked with the Richmond NAACP. In 1978, Ida went to VCU to complete a degree in Community Service.  When asked about the urban renewal of Fulton Ida stated: <i>‘Well you know I haven’t really thought about it a lot, you know I did feel you know it’s such a waste to tear down the way they did. Because when they started when they condemned and moved people out, it scattered them so, and I didn’t know where they were…’</i>',
             location: {
                 center: [-77.5633017, 37.5247764],
@@ -268,7 +268,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: 'An oral history interview with Evelyn Bowman, November 29, 2011. Part of the Fulton Oral History Project: Interview by Dr. Caroline Morris, Transcription by Erin O’Donnovan',
-            image: './fulton_1952.jpg',
+            image: 'fulton_1952.jpg',
             description: 'In an interview conducted by Dr. Caroline Morris, Evelyn Bowman speaks of her time in Fulton. Bowman was born and raised in Fulton, Richmond where she lived until 1971. She graduated high school in 1941 and attended Virginia Union until the start of the War. She was heavily involved with Mt. Zion Baptist Church and was part of the Fulton Improvement Association. The association worked hard to for structural change in the Fulton neighborhood. Bowman discusses the many black businesses located in Fulton. She also recalls working in the American Tobacco Factory during the summers to make extra money. When asked about the urban renewal of Fulton, Bowman stated: <i> Urban renewal, it didn’t come overnight. It was implemented.</i> She goes on to tell a story about how the Fulton Improvement Association and other members of the community would go to City Council meetings. Primarily in order to keep properties from being taken in the neighborhood. ',
             location: {
                 center: [-77.5633017, 37.5247764],
